@@ -4,7 +4,7 @@ A sleek, responsive, and lightweight web application built with **Vanilla JavaSc
 
 ![Project Preview](./preview.png)
 
-🔗 Live Demo: [YOUR_LIVE_DEMO_URL](https://git-hub-random-repository-flame.vercel.app/)
+🔗 Live Demo: https://git-hub-random-repository-flame.vercel.app/
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
